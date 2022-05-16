@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponto.Android", "Ponto.Andr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponto.iOS", "Ponto.iOS\Ponto.iOS.csproj", "{A4A0C5BE-27C6-4CE4-8C99-A06A4EE47C3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ponto", "Ponto\Ponto.csproj", "{AC0D3ABC-2A1A-4EF2-8D73-7A335EF7E29D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ponto", "Ponto\Ponto.csproj", "{AC0D3ABC-2A1A-4EF2-8D73-7A335EF7E29D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
